@@ -1,1 +1,0 @@
-# synent-task7-TimeSeriesAnalysis-Tavakkal
